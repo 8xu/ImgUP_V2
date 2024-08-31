@@ -1,15 +1,2 @@
-# imgup
-
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.1.24. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+# Disclaimer ⚠️
+> This project has been dumped to GitHub exactly how I have it on my machine, it will not work if you don't take some time to understand the code and modify some values to the ones that suit you!
